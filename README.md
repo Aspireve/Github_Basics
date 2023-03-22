@@ -1,3 +1,19 @@
+## A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+### Input:
+&nbsp;&nbsp;&nbsp;&nbsp;p, principal amount
+
+&nbsp;&nbsp;&nbsp;&nbsp;t, time period in years
+
+&nbsp;&nbsp;&nbsp;&nbsp;r, annual rate of interest
+
+### Output
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p*t*r
+
+-----
+
+
+
 ## README file
 A README file is an essential part of any software project on GitHub. It serves as a documentation and a guide to help other developers understand your project and how to use it. Here are some reasons why a README file is important:
 
